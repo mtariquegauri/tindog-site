@@ -1,6 +1,6 @@
 # tindog
 
-Just imagine a website where dogs can meet each other, Yipieee TINDOG!! is here.
+Just imagine a website where dogs can meet each other, Yipieee TINDOG!! is here. Its a networking site for dogs.
 
 Visit site here : https://tindog-network.netlify.app/
 
